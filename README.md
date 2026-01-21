@@ -36,7 +36,7 @@ Se implementó un modelo de **Bosque Aleatorio (Random Forest)** optimizado tras
 ## 🚀 Cómo correr este proyecto
 1.  Clonar el repositorio.
 2.  Instalar dependencias: `pip install -r requirements.txt`
-3.  Ejecutar el Jupyter Notebook `Analisis_Fertilizantes.ipynb`.
+3.  Ejecutar el Jupyter Notebook **`GOF.ipynb`**.
 
 ---
 *Autor: Mtro. César Dudley Castellanos Nieto*
